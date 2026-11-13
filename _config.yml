@@ -1,0 +1,5 @@
+theme: jekyll-theme-modernist
+title: "🤖 AIMA Python — Algoritmos de Inteligência Artificial"
+description: "Implementações em Python dos algoritmos de Stuart Russell e Peter Norvig (AIMA)."
+kramdown:
+  parse_block_html: true
